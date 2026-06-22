@@ -59,14 +59,4 @@ Interactive resume kits ... shipping
 
 ---
 
-### 📫 Find me around the web
-
-<p align="left">
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-5B8FE0?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a></a
-  <a href="#"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
-</p>
-
----
-
 <p align="center"><i>Thanks for stopping by my save file. ⭐ if you liked what you saw.</i></p>
